@@ -12,6 +12,6 @@
 # Overview
 <img src="https://camo.githubusercontent.com/ecd01bfc23af085401e55d9eb2c3601eaf76fa641fbd09c52c64e0d5ffe67dc1/68747470733a2f2f692e6962622e636f2e636f6d2f37345a767239432f6361746c6f7269732d6c6f676f2e706e67" alt="Logo CatLoris" width="250" height="100" />
 
-#CatLoris
+# CatLoris
 Cat Loris is an Android app that makes calorie tracking fun and engaging through gamification. With cat avatars, challenges, and rewards, it helps users stay motivated to achieve their nutrition and health goals. Simplify your journey to better health with Cat Loris! 🐾
 
