@@ -32,8 +32,11 @@ Cat Loris is an Android app that makes calorie tracking fun and engaging through
 |--------------|--------------|--------------|--------------|
 | C117B4KY3026 | Muhammad Rangga Ridjali | Institut Teknologi Nasional | Cloud Computing |
 | C545B4NX1104 | Diah Ayu Rahma | UIN Malang | Cloud Computing |
-| Baris 3, Kolom 1 | Baris 3, Kolom 2 | Baris 3, Kolom 3 | Baris 3, Kolom 4 |
-| Baris 4, Kolom 1 | Baris 4, Kolom 2 | Baris 4, Kolom 3 | Baris 4, Kolom 4 |
+| M479B4KY3948 | Rizqi Hasanuddin | Institut Teknologi dan Bisnis Asia Malang | Machine Learning |
+| M562B4KY2570 | Mohammad Iqbal Maulana | Universitas Islam Madura | Machine Learning |
+| M006B4KX4602 | Zalfa Nazhifah Huwaida | Universitas Brawijaya | Machine Learning |
+| A158B4KY1911 | Ignasius Tio Rahayaan | STIKI MALANG | Mobile Development |
+| A158B4KY3005 | Muhammad Rafli Nurfathan | STIKI MALANG | Mobile Development |
 
 
 
