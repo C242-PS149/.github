@@ -17,6 +17,10 @@ Cat Loris is an Android app that makes calorie tracking fun and engaging through
 
 # List of Content
 - [Overview](#overview)
+- [Mobile App](#mobile-app)
+- [Dashboard Web](#dashboard-web)
+- [Our Team](#our-team)
+- [Additional](#additional)
 
 # Mobile App
 
