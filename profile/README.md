@@ -1,7 +1,7 @@
 <div align="right">
 <div>
   
-<img src="https://github.com/C242-PS149/.github/blob/main/assets/BangkitLogo2024.png" alt="Logo Bangkit"/>
+<img src="https://github.com/C242-PS149/.github/blob/main/assets/BangkitLogo2024.png" alt="Logo Bangkit" width="200" height="200"/>
 </div>
 
 <p>Product Base Capstone</p>
