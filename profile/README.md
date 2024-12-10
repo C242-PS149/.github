@@ -20,5 +20,20 @@ Cat Loris is an Android app that makes calorie tracking fun and engaging through
 
 # Mobile App
 
-![Cat Loris](https://github.com/C242-PS149/.github/blob/main/assets/mobile-catloris.jpg)
+![Cat Loris Mobile](https://github.com/C242-PS149/.github/blob/main/assets/mobile-catloris.jpg)
+
+# Dashboard Web
+
+![Cat Loris Web]()
+
+# Our Team
+
+| Bangkit ID      | Name      | University      | Learning Path      |
+|--------------|--------------|--------------|--------------|
+| Baris 1, Kolom 1 | Baris 1, Kolom 2 | Baris 1, Kolom 3 | Baris 1, Kolom 4 |
+| Baris 2, Kolom 1 | Baris 2, Kolom 2 | Baris 2, Kolom 3 | Baris 2, Kolom 4 |
+| Baris 3, Kolom 1 | Baris 3, Kolom 2 | Baris 3, Kolom 3 | Baris 3, Kolom 4 |
+| Baris 4, Kolom 1 | Baris 4, Kolom 2 | Baris 4, Kolom 3 | Baris 4, Kolom 4 |
+
+
 
